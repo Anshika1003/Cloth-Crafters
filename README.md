@@ -33,7 +33,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Akshat-Pandya/Cloth-Crafters.git
+    git clone https://github.com/Anshika1003/Cloth-Crafters.git
     ```
 
 2. Navigate to the project directory:
